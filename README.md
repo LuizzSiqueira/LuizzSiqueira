@@ -69,9 +69,9 @@ Amo transformar desafios em soluções digitais. No meu dia a dia, transito entr
 
 ### 🌐 Redes & Contato
 
-- 📧 **E-mail:** luizzsiqueira.dev@gmail.com  
+- 📧 **E-mail:** luizvalente.siqueira@gmail.com  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/luiz-siqueira-4841821a6)  
-- 🧑‍💻 [**Portfólio** (em construção)](https://luizzsiqueira.github.io)
+- 🧑‍💻 [**Portfólio** (em construção)](https://github.com/LuizzSiqueira?tab=repositories)
 
 ---
 
