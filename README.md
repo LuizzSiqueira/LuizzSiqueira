@@ -2,126 +2,77 @@
 
 # 👨🏻‍💻 Luiz Siqueira
 
-**`Engenheiro de Software`**
+**`Engenheiro de Software em Formação | Dev & Infra | Automação | Cloud`**
 
-Me chamo Luiz Claudio Valente de Siqueira, tenho 22 anos e sou natural de Manaus, Amazonas. Atualmente, estou cursando Engenharia de Software na Universidade de Mogi das Cruzes. Tenho experiência em áreas como infraestrutura de TI, cloud computing, segurança da informação e automação de processos. Atualmente estou me aprimorando em cloud computing com AWS e Azure, além de desenvolver scripts e aplicações utilizando Python, C# e SQL.
+Sou o Luiz Claudio Valente de Siqueira, 22 anos, natural de Manaus-AM, e atualmente curso Engenharia de Software pela Universidade de Mogi das Cruzes. Tenho vivência prática em infraestrutura de TI, cloud computing, segurança da informação, automação de processos e desenvolvimento de soluções.
+
+Amo transformar desafios em soluções digitais. No meu dia a dia, transito entre a construção de scripts, automações e APIs, até a configuração de ambientes cloud escaláveis. Sempre buscando entregar valor através da tecnologia!
+
+---
+
+### 🚀 Stacks & Ferramentas
 
 <p align="left">
-    <a href="https://github.com/LuizzSiqueira?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LuizzSiqueira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/LuizzSiqueira?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LuizzSiqueira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧠 Certificações & Conhecimentos
 
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Kotlin"
-    title="Kotlin" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="AWS"
-    title="AWS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Azure"
-    title="Azure" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux"
-    title="Linux" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Jira"
-    title="Jira" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Confluence"
-    title="Confluence" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" 
-/>
+- 📜 **Jira Essentials (Atlassian)**
+- 📜 **Git & GitHub (DIO)**
+- 📜 **Linux Fundamentals**
+- 📜 **Microsoft AZ-900: Azure Fundamentals (em andamento)**
+- 📜 **AWS Cloud Practitioner (em andamento)**
+- 🔐 Práticas em **Segurança da Informação**
+- 🖥️ Sólida base em **Infraestrutura de TI**
+- ☁️ Experiência com **AWS**, **Azure**, **GCP (básico)**
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+### 📌 Projetos em Destaque
 
-<p>
+- 🔗 [**Gerenciador de Compras**](https://github.com/LuizzSiqueira/gerenciador-de-compras)  
+  App web integrado ao Firebase para controle de compras pessoais ou empresariais.
+
+- 🔗 [**Envio Automático de E-mails**](https://github.com/LuizzSiqueira/Envio_automatico_emails)  
+  Script em Python com integração ao Gmail e planilha para envio de convites automatizados.
+
+---
+
+### 📈 Estatísticas GitHub
+
+<div align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
+    height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=LuizzSiqueira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzSiqueira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzSiqueira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</div>
 
-</p>
+---
+
+### 🌐 Redes & Contato
+
+- 📧 **E-mail:** luizzsiqueira.dev@gmail.com  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/luiz-siqueira-4841821a6)  
+- 🧑‍💻 [**Portfólio** (em construção)](https://luizzsiqueira.github.io)
+
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=100&section=footer"/>
-
