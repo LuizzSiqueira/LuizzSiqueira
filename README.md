@@ -4,7 +4,7 @@
 
 **`Engenheiro de Software`**
 
-Me chamo Luiz Claudio Valente de Siqueira, tenho 22 anos e sou natural de Manaus, Amazonas. Atualmente, estou cursando Engenharia de Software na Universidade de Mogi das Cruzes. Tenho experiência em áreas como infraestrutura de TI, cloud computing, segurança da informação e automação de processos. Tenho certificações em ferramentas como Jira, Confluence, Git/GitHub e Linux. Trabalho com AWS e Azure, além de desenvolver scripts em Python, C#, SQL .
+Me chamo Luiz Claudio Valente de Siqueira, tenho 22 anos e sou natural de Manaus, Amazonas. Atualmente, estou cursando Engenharia de Software na Universidade de Mogi das Cruzes. Tenho experiência em áreas como infraestrutura de TI, cloud computing, segurança da informação e automação de processos. Atualmente estou me aprimorando em cloud computing com AWS e Azure, além de desenvolver scripts e aplicações utilizando Python, C# e SQL.
 
 <p align="left">
     <a href="https://github.com/LuizzSiqueira?tab=repositories&sort=stargazers">
