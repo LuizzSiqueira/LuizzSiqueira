@@ -44,13 +44,29 @@ Amo transformar desafios em soluções digitais. No meu dia a dia, transito entr
 
 ### 📌 Projetos em Destaque
 
-- 🔗 [**Gerenciador de Compras**](https://github.com/LuizzSiqueira/gerenciador-de-compras)  
-  App web integrado ao Firebase para controle de compras pessoais ou empresariais.
+- 🔐 [**Sistema de Autenticação Seguro**](https://github.com/LuizzSiqueira/sistema_autenticacao_seguro)  
+  🚀 Projeto principal focado em segurança da informação e boas práticas de desenvolvimento.  
+  🔹 Autenticação de usuários com tokens JWT  
+  🔹 Envio automático de token de recuperação de senha por e-mail  
+  🔹 Controle de tentativas de login e bloqueio de conta após falhas consecutivas  
+  🔹 Estrutura modular e escalável, separando responsabilidades por camadas  
+  🔹 Aderência às diretrizes da LGPD (Lei Geral de Proteção de Dados)  
+  🔹 Projeto ideal para aplicações que exigem alta segurança e confiabilidade
 
-- 🔗 [**Envio Automático de E-mails**](https://github.com/LuizzSiqueira/Envio_automatico_emails)  
-  Script em Python com integração ao Gmail e planilha para envio de convites automatizados.
+- 🛒 [**Gerenciador de Compras**](https://github.com/LuizzSiqueira/gerenciador-de-compras)  
+  Aplicação web para gerenciamento de compras pessoais ou empresariais.  
+  🔹 Integrado ao Firebase para armazenamento seguro de dados  
+  🔹 Cadastro, edição e remoção de produtos  
+  🔹 Interface intuitiva para controle de gastos
+
+- ✉️ [**Envio Automático de E-mails**](https://github.com/LuizzSiqueira/Envio_automatico_emails)  
+  Script em Python para automação de envios de e-mails personalizados.  
+  🔹 Integração com API do Gmail e Google Sheets  
+  🔹 Leitura dinâmica de planilhas para envio de convites  
+  🔹 Automatização de processos de comunicação
 
 ---
+
 
 ### 📈 Estatísticas GitHub
 
